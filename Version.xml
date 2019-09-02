@@ -5,5 +5,5 @@
   <changelog>https://github.com/NewBLife/HBMCSPackage/releases</changelog>
   <!--User Can't skip this version-->
   <!--1:hide the Close button on update dialog-->
-  <mandatory mode="1">true</mandatory>
+  <mandatory>false</mandatory>
 </item>
