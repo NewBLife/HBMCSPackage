@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<item>
+  <version>1.0.0.0</version>
+  <url>https://github.com/NewBLife/HBMCSPackage/raw/master/HBMCS.zip</url>
+  <changelog>test</changelog>
+  <!--User Can't skip this version-->
+  <!--1:hide the Close button on update dialog-->
+  <mandatory mode="1">true</mandatory>
+</item>
