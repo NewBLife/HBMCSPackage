@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <item>
-  <version>1.0.1.5</version>
-  <url>https://github.com/NewBLife/HBMCSPackage/releases/download/1.0.1.5/HBMCS.zip</url>
+  <version>1.0.1.7</version>
+  <url>https://github.com/NewBLife/HBMCSPackage/releases/download/1.0.1.7/HBMCS.zip</url>
   <changelog>https://github.com/NewBLife/HBMCSPackage/releases</changelog>
   <!--User Can't skip this version-->
   <!--1:hide the Close button on update dialog-->
